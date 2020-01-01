@@ -17,7 +17,7 @@ In this project, I applied unsupervised learning techniques on two data sets. On
 - Feature Scaling
 - PCA
 - Clustering
-- CLuster comparison
+- Cluster comparison
 
 ## Technologies Used
 - Jupyter Notebook
